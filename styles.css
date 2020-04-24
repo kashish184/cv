@@ -26,3 +26,12 @@ h3
 {
   color:grey;
 }
+img
+{
+  border radius: 100%;
+  
+}
+.description
+{
+  align: center;
+}
